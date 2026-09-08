@@ -12,6 +12,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     animation: gold-shine 3s linear infinite;
+    font-size: 20px;
 }
 @keyframes gold-shine {
     0% {
